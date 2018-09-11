@@ -2,7 +2,7 @@
 Craigslist Crawler
 
 ## Goal
-Build a tool to find properties with the highest ROI, based on the cost of renting vs. purchase cost in that area.
+Build a tool to find properties with the zipcodes with the highest ROI, based on the cost of renting vs. purchase cost in that area.
 
 ### Complete
 * Scrapes all of Oregon, but is capabable of scraping all of the US with a few parameter changes
